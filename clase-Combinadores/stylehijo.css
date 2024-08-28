@@ -1,0 +1,4 @@
+/* estilo hijo  */
+div > p{
+    color: red;
+}
