@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    display: inline-flexbox;
+    background-color: #278fd4;
+    color: #fff;
+}
+.nav ul{
+    display: inline-flex;
+    list-style: none;
+}
